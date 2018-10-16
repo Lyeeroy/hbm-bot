@@ -4,11 +4,11 @@ The first bot I made in python
 
 Funcs:
 
-- Auto login BOT
+- Auto login
 
-- Reaction time BOT
+- Reaction time
 
-- Number memory BOT
+- Number memory
 
 Supp:
 
