@@ -1,4 +1,4 @@
-# humanbenchmark bot coded in python
+# humanbenchmark bot
 
 The first bot I've made in python
 
