@@ -1,6 +1,6 @@
 # humanbenchmark bot coded in python
 
-The first bot I made in python
+The first bot I've made in python
 
 Funcs:
 
