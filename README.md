@@ -4,16 +4,16 @@ The first bot I made in python
 
 Funcs:
 
--- Auto login BOT
+- Auto login BOT
 
--- Reaction time BOT
+- Reaction time BOT
 
--- Number memory BOT
+- Number memory BOT
 
 Supp:
 
--- selenium
+- selenium
 
--- win10
+- win10
 
--- chrome
+- chrome
